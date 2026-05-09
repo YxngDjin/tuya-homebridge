@@ -10,7 +10,11 @@
   "keywords": [
     "homebridge-plugin"
   ],
-  "author": "YxngDjin",
+  "author": {
+    "name": "YxngDjin",
+    "email": "wuestefelddennis@gmail.com",
+    "url": "https://github.com/YxngDjin"
+  },
   "license": "MIT",
   "homepage": "https://github.com/YxngDjin/tuya-homebridge",
   "engines": {
